@@ -1,0 +1,1335 @@
+Mono path[0] = 'F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'F:/SteamLibrary/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1080 (ID=0x1b80)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   30.0.15.1259
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.154 seconds
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+<RI> Initialized touch support.
+
+UnloadTime: 2.671700 ms
+RimWorld 1.3.3326 rev562
+Tried loading mod with the same packageId multiple times: jecrell.jecstools. Ignoring the duplicates.
+F:\SteamLibrary\steamapps\workshop\content\294100\932008009
+F:\SteamLibrary\steamapps\workshop\content\294100\2195729899 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod MSE2 - Simple Modules dependency (MSE2.Core) needs to have <downloadUrl> and/or <steamWorkshopUrl> specified. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: jecrell.jecstools. Ignoring the duplicates.
+F:\SteamLibrary\steamapps\workshop\content\294100\932008009
+F:\SteamLibrary\steamapps\workshop\content\294100\2195729899 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A187D61060.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1860B1AE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A187CDA0A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1880202E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18804EF10.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A160070040.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A15FE3B1E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18820E360.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1882E9780.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18831DCC0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1883E8A20.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1883EFC30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1883F2E40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188414260.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A186533E80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188421270.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18843E8A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188440EB0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A15FE43200.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188449ED0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18846BE00.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188486E20.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18848BC50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188493470.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1884AA680.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1883A7E30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1884C76A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1884D68A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1884D7EB0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1884D94C0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1884EC0F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188505310.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18862A1B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18862CDC0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1886453D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18866AA00.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188675610.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188697220.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1886A6E30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1886AAA40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1886ACC50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1886AEA60.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1886B2670.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1886BB490.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1886C06B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1886DB6D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1886E7CF0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18870B120.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18874AF40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18874DF70.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188754D80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887623A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887661B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887685C0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887779E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18877FC00.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188783010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18879C840.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887A2E60.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A15FE53240.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887A8A80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887AD890.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887B1EA0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18653B6B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887B42C0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887B66D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1887D88F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18889FD10.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18897C740.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188982D60.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188AB3C20.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188ADA630.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188AEC250.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189436D40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189530180.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188B10AB0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189589BB0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A188B280F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1895927E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1860B4300.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189614010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189626C30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189633250.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18963CC80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18963EA90.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1896972A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1896A62F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1896AB100.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1896C9320.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1897AFD50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1897CC180.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1897EAFA0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A15FE3F1F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1897F8BB0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189800FD0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189802DE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1898FE440.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189902C50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1899CB870.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1899CFA80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1899D34A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1899EAAC0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1899F82F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1899FEF30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189A0D740.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189A3AD70.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189A3EF80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189AF83B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189AFDFC0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189B047D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189B0C400.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189B27420.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A15FE5F270.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1896043D0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189B7D4B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189B846C0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189B8AAD0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A186536690.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189B9DEF0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189BA0F00.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189BA8310.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189C61F30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189C69350.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189C71360.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189C9B570.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189DB4220.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189DBFC40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189DD8670.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189DEB6A0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189EB74E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189EBD2F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189EBE500.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1864FF0F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189EC8F20.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189EF3F40.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189F18970.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189FD8FA0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189CBFC60.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189FF6DD0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A1864FD8E0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189FF8BE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A0251F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A02AA10.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A02C620.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A051640.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A13B080.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A145AA0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A14ACB0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A189CD9D30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A155EE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A15FE63280.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A160CE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A1934F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A199310.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A19F720.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A202010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A20A830.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A21AE50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A2EB470.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A330E80.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A335890.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A34BAA0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A367CC0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A36CAD0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A39CAE0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A3BF4F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A489B10.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A49B520.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A4A3B30.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A4B8D50.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A51F010.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A5F4230.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A601250.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A60D670.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A6FB8B0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A7180F0.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A71D700.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18A9B4060.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18AA97120.dll
+[5/9/2022 7:48:23 PM] [BetterLoading] Verifying all mods loaded properly...
+[BetterLoading] Read tip cache of 106 tips from config.
+[BetterLoading] Injecting into main UI.
+[BetterLoading] Injected into main UI.
+[HugsLib] version 9.0.1
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18BFCBCA0.dll
+[HugsLib] early-initializing AllowTool
+:: Outpost 21 Toolbox :: 2.5.8150 ::
+[VanillaAchievementsExpanded] version 1.3.7862
+[Vanilla Furniture Expanded - Architect] Activating Replace Stuff compatibility patch
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+DubsBreakMod 1.0.809
+DubsMintMenus v1.3.995
+Dubs Mint Minimap 1.3.787
+DubsPaintShop 1.1.573
+Rimatomics 1.7.2473
+Fluffy Breakdowns :: Initialized
+[ForceRewardsDetails] applied.
+[Interaction Bubbles v1.8] Initialized
+[Map Preview] Applying compatibility patches for Performance Optimizer.
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18F41D020.dll
+[CM_Semi_Random_Research] - patching to conditionally hide normal start research button.
+[VanillaFixHaulAfterSlaughter 0.1.0] Mod Loaded.
+[VanillaFix_MortarShellLoading 0.1.0] Mod Loaded.
+[Visible Raid Points] Loaded.
+[Yayo's Combat Warcaskets] - Found method to patch
+:: Subpersona Shells :: 1.0.0 ::
+[BetterLoading] Finished stage Initializing Mods at 7:48:31 PM.
+[BetterLoading] HugsLib detected, adding HugsLib support.
+[BetterLoading:HugsLib Compat] Resolved required HugsLib types as follows: Controller: HugsLib.HugsLibController / Mod Identifier (Property): ModIdentifier
+[BetterLoading:HugsLib Compat] Successfully blind-patched HugsLib.
+[BetterLoading] Starting stage Reading Mod Content Files.
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18EE77020.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A18EFF8010.dll
+ROCKETMAN: config path C:\Users\XelNigma\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\rocketeer.0102.txt
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A190E8D030.dll
+Fallback handler could not load library F:/SteamLibrary/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000002A190EDF010.dll
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Proton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+<color=orange>ROCKETMAN</color>: Loaded <color=red>Soyuz, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</color>
+<color=orange>ROCKETMAN:</color> Version 0.6.3.2196
+SOYUZ: Created _transformationCache
+[BetterLoading] Finished stage Reading Mod Content Files at 7:48:46 PM.
+[BetterLoading] Starting stage Injecting Mod XML.
+[BetterLoading] [Enhanced XML Load] Loaded 2262 loadable assets.
+[BetterLoading] Finished stage Injecting Mod XML at 7:48:47 PM.
+[BetterLoading] Starting stage Applying Patches.
+LWM Deep Storage: activated compatibility patch for Vanilla Cooking Expanded
+[BetterLoading] Finished stage Applying Patches at 7:48:58 PM.
+[BetterLoading] Starting stage Registering Defs.
+[BetterLoading] Finished stage Registering Defs at 7:48:58 PM.
+[BetterLoading] Starting stage Constructing Defs.
+XML error: Duplicate XML node name designatorDropdown in this XML block: <TerrainDef ParentName="FloorBase"><defName>WoodPlankFloor</defName><label>wood floor</label><renderPrecedence>250</renderPrecedence><description>Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable.</description><texturePath>Terrain/Surfaces/WoodFloor</texturePath><burnedDef>BurnedWoodPlankFloor</burnedDef><color>(108,78,55)</color><statBases><WorkToBuild>85</WorkToBuild><Flammability>0.22</Flammability></statBases><costList><WoodLog>3</WoodLog></costList><constructEffect>ConstructWood</constructEffect><designationHotKey>Misc9</designationHotKey><designatorDropdown>Floor_Wood</designatorDropdown><designatorDropdown>VFEArch_WoodFloor</designatorDropdown></TerrainDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MVCF] [Reloading] Patching method Verse.Verb_LaunchProjectile.TryCastShot
+[MVCF] [Reloading] Patching method Verse.Verb.Available
+[MVCF] [Reloading] Patching method Verse.Verb_LaunchProjectile.get_Projectile
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+XML error: <spawnConduits>False</spawnConduits> doesn't correspond to any field in type ScenPart_AddStartingStructure. Context: <li Class="KCSG.ScenPart_AddStartingStructure"><def>VFEC_AddStartingStructure</def><structureLabel>A sealed vault</structureLabel><spawnConduits>False</spawnConduits><nearMapCenter>True</nearMapCenter><fullClear>True</fullClear><chooseFrom><li>VFEA_SealedVaultAlpha</li><li>VFEA_SealedVaultBravo</li><li>VFEA_SealedVaultCharlie</li><li>VFEA_SealedVaultDelta</li><li>VFEA_SealedVaultEpsilon</li><li>VFEA_SealedVaultF</li><li>VFEA_SealedVaultG</li><li>VFEA_SealedVaultH</li><li>VFEA_SealedVaultI</li><li>VFEA_SealedVaultJ</li></chooseFrom><spawnTheStartingPawn>True</spawnTheStartingPawn><method>Standing</method></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <spawnConduits>False</spawnConduits> doesn't correspond to any field in type ScenPart_AddStartingStructure. Context: <li Class="KCSG.ScenPart_AddStartingStructure"><def>VFEC_AddStartingStructure</def><structureLabel>An abandoned supply slingshot</structureLabel><spawnConduits>False</spawnConduits><nearMapCenter>True</nearMapCenter><fullClear>True</fullClear><chooseFrom><li>VFEA_AbandonedSupplySlingshot</li></chooseFrom></li> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Constructing Defs at 7:49:14 PM.
+[BetterLoading] Starting stage Reloading Def Databases.
+[BetterLoading] Finished stage Reloading Def Databases at 7:49:24 PM.
+[BetterLoading] Tips should now be available. Showing...
+[BetterLoading] Starting stage Running Post Content Load Callbacks.
+[BetterLoading] Processing 16729 post-load tasks.
+d3d11: failed to create 2D texture id=8425 width=25 height=31 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=8425 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=8471 width=62 height=50 mips=7 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=8471 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=22071 width=254 height=246 mips=9 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=22071 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+Translation data for language English has 4 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[AllowTool] Applied compatibility patch for "Pick Up And Haul"
+ROCKETMAN: RocketMan settings are stored in <color=red>C:\Users\XelNigma\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\RocketMan\Mod_2479389928_RocketMod.xml</color>
+ROCKETMAN: Defs loaded!
+ROCKETMAN: Patched KeyBinder!
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Patching finished
+SOYUZ: Patching finished
+ROCKETMAN: XMLParser started
+ROCKETRULES: IgnoreMeRule for OskarPotocki.VFE.Mechanoid
+ROCKETRULES: IgnoreMeRule for Alaestor.MiscRobots.PlusPlus
+ROCKETRULES: IgnoreMeRule for Haplo.Miscellaneous.Robots
+ROCKETRULES: IgnoreMeRule for ChJees.Androids
+ROCKETRULES: IgnoreMeRule for automatic.autocleaner
+ROCKETRULES: IgnoreMeRule for neronix17.mechadroids
+ROCKETRULES: IgnoreMeRule for neronix17.outerrim.galaxies
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.drones
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory.legacy
+ROCKETRULES: IgnoreMeRule for spdskatr.projectrimfactory
+[0.002058 seconds] ROCKETMAN: <color=red>IgnoreMe report</color>
+ROCKETRULES: IgnoreMe add def by name: BI_Queen
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCentipede
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedLancer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedKnight
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedInquisitor
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedScyther
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedPikeman
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvancedCarpenter
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_AdvTermite
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autocleaner
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autohauler
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autominer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Combat
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Riot
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Turret
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autostrider
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_AutoMedic
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Raider
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Pyro
+ROCKETRULES: IgnoreMe add def by name: VFE_Mechanoids_Autobroadcaster
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Centipede
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Lancer
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Knight
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Inquisitor
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Scyther
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Pikeman
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Carpenter
+ROCKETRULES: IgnoreMe add def by name: VFE_Mech_Termite
+ROCKETMAN: Hijacking ([REFLECTED] RimWorld.StatWorker:GetValue, [DECLARING] RimWorld.StatWorker:GetValue, [ISSTATIC] False, [ISPUBLIC] False, [ISVIRTUAL] StatWorker, [ABSTRACT] False)
+[BetterLoading] Obtained synclock, assuming post-load actions are complete and starting static constructors.
+[BetterLoading] Starting Antifreeze(tm) StaticConstructorCaller. Synchronizing retransmission chronicity...
+Type ModSettingsWindow probably needs a StaticConstructorOnStartup attribute, because it has a field cachedWeaponTexture of type Texture2D. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Type Patch_StatPart_WorldObject_Draw probably needs a StaticConstructorOnStartup attribute, because it has a field propertyBlock0 of type MaterialPropertyBlock. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Type TexTab probably needs a StaticConstructorOnStartup attribute, because it has a field Settings of type Texture2D. All assets must be loaded in the main thread. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Finished stage Running Post Content Load Callbacks at 7:51:33 PM.
+[BetterLoading] Starting stage Finalizing Mods.
+[BetterLoading] One or more mods have Harmony-Postfixed StaticConstructorOnStartupUtility#CallAll. This is likely to cause errors or undesired behavior, as BetterLoading changes this method to be called from another Thread than the UI one. A list of patches follows. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] In addition, when BetterLoading is installed, this postfix will run before any static constructors do, so it likely will not behave as the modder intended anyway. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading]    - static System.Void RecycleThis.StaticConstructorOnStartupUtilityPatch::Postfix() 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Modders: Consider either loading this data on world load, using a regular static constructor but asking your users to put the mod last in the load order, or if it MUST be done now, consider using BetterLoading API to detect the start of StageRunPostFinalizeCallbacks, which fires once static constructors are done. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading] Players: I'm not interested in this warning, if a mod is breaking, show this message to the person who made that mod, not to me. They can reach out to me if they need assistance. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Alien race successfully completed 180 patches with harmony.
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+<color=orange>[CSG]</color> Symbols Creator Started.
+<color=orange>[CSG]</color> Created 13112 symbolDefs for 3 mods. Took 00.06s.
+Patching Madeline.ModMismatchWindow
+Clothing Sorter: Updating 92 apparel categories.
+Sorting by layer, then by None
+Clothing Sorter: Update done.
+Damage Indicators initialized.
+Failed inject m_MeshScaler - hair under hats wont work F 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to ElectricTailoringBench
+Adding MAC_Custom_Make_VCE_MealGourmet2 to ElectricTailoringBench
+Adding MAC_Custom_Make_VCE_MealGourmet2 to ElectricTailoringBench
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to ElectricTailoringBench
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to ElectricTailoringBench
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to HandTailoringBench
+Adding MAC_Custom_Make_VCE_MealGourmet2 to HandTailoringBench
+Adding MAC_Custom_Make_VCE_MealGourmet2 to HandTailoringBench
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to HandTailoringBench
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to HandTailoringBench
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to ElectricStove
+Adding MAC_Custom_Make_VCE_MealGourmet2 to ElectricStove
+Adding MAC_Custom_Make_VCE_MealGourmet2 to ElectricStove
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to ElectricStove
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to ElectricStove
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to FueledStove
+Adding MAC_Custom_Make_VCE_MealGourmet2 to FueledStove
+Adding MAC_Custom_Make_VCE_MealGourmet2 to FueledStove
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to FueledStove
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to FueledStove
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to VPE_GasStove
+Adding MAC_Custom_Make_VCE_MealGourmet2 to VPE_GasStove
+Adding MAC_Custom_Make_VCE_MealGourmet2 to VPE_GasStove
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to VPE_GasStove
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to VPE_GasStove
+[Map Preview] Loaded cached true colors for 270 terrain defs from file.
+PickUpAndHaul v0.1.3.2⅔ welcomes you to RimWorld with pointless logspam.
+[ShowDrafteesWeapon] Initialized
+Path Avoid: Adding Harmony Postfix to PawnUtility.GetAvoidGrid()
+Wall Light: v1.3.7890.36463
+[Utility Columns] - Patching...
+[BetterLoading] Finished stage Finalizing Mods at 7:52:02 PM.
+[BetterLoading] Starting stage Running Post-Finalize Callbacks.
+[BetterLoading] Finished calling static constructors at 7:52:02 PM.
+[BetterLoading] Processing 5 post-finalize tasks.
+[BetterLoading] Finished stage Running Post-Finalize Callbacks at 7:52:05 PM.
+[BetterLoading] Starting stage Initializing HugsLib.
+found Stloc_1
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+# YayoCombat detected
+[HugsLib] initializing YayoCombat3, AlmostThere, LWM_DeepStorage, me.lubar.VanillaBooksExpandedExpanded, ImprovedWorkbenches, CentralizedClimateControl, HeatMap, Hospitality, LessArbitrarySurgery, MapReroll, MaterialFilter, MSE2, RealisticRoomsRewritten, SearchAndDestroy, WhatTheHack, yayoAni, caravanVisual
+[BetterLoading:HugsLib Compat] HugsLib has enumerated child mods, it has found 18 of them.
+[MaterialFilter] Init
+FactionDef VFEP_Mercenaries must have at least one pawnGroupMaker with kindDef 'Peaceful', or 'permanentEnemy', 'isPlayer' or 'hidden' should be set to true. Otherwise no guests from this faction will arrive. This is a misconfiguration in Vanilla Factions Expanded - Pirates. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[MaterialFilter] specialThingFilterDefs generated
+[MSE2] Some prostheses that have not been patched were detected in mods: Core, Vanilla Ideology Expanded - Memes and Structures, Cybernetic Organism and Neural Network, Vanilla Genetics Expanded, What the hack?!. They will default to vanilla behaviour.
+
+<Denture> from "Core": tongue
+
+<VME_FleshcraftedArmHediff> from "Vanilla Ideology Expanded - Memes and Structures": humerus, radius, hand, finger
+
+<VME_FleshcraftedHandHediff> from "Vanilla Ideology Expanded - Memes and Structures": finger
+
+<VME_FleshcraftedFootHediff> from "Vanilla Ideology Expanded - Memes and Structures": toe
+
+<VME_FleshcraftedLegHediff> from "Vanilla Ideology Expanded - Memes and Structures": femur, tibia, foot, toe
+
+<VME_FleshcraftedJawHediff> from "Vanilla Ideology Expanded - Memes and Structures": tongue
+
+<Trunken_hediff_ElasticAchilles> from "Cybernetic Organism and Neural Network": toe
+
+<Trunken_hediff_CompressionJaw> from "Cybernetic Organism and Neural Network": tongue
+
+<GR_BearLeg> from "Vanilla Genetics Expanded": paw, foot, femur, tibia, toe, hoof, front claw, rear claw
+
+<GR_LizardLeg> from "Vanilla Genetics Expanded": paw, foot, femur, tibia, toe, hoof, front claw, rear claw
+
+<GR_ThrumboLeg> from "Vanilla Genetics Expanded": paw, foot, femur, tibia, toe, hoof, front claw, rear claw
+
+<GR_RodentNose> from "Vanilla Genetics Expanded": horn
+
+<GR_InsectoidPheromones> from "Vanilla Genetics Expanded": horn
+
+<GR_MiniatureThrumboHorn> from "Vanilla Genetics Expanded": horn
+
+<GR_WolfJaws> from "Vanilla Genetics Expanded": tusk, fangs
+
+<GR_InsectMandibles> from "Vanilla Genetics Expanded": tusk, fangs
+
+<GR_ThrumboJaws> from "Vanilla Genetics Expanded": tusk, fangs
+
+<GR_BearClaws> from "Vanilla Genetics Expanded": finger
+
+<GR_DiggingBearClaws> from "Vanilla Genetics Expanded": finger
+
+<GR_VenomousFangs> from "Vanilla Genetics Expanded": tongue
+
+<WTH_RepairArm> from "What the hack?!": arm, hand, finger, blade
+
+
+[MSE2] Ignoring unsupported sub-parts:
+
+SimpleProstheticArm: Clavicle
+
+SimpleProstheticForearm: Humerus, Radius
+
+SimpleProstheticLeg: Femur, Tibia
+
+
+[HugsLib][warn] Missing enum setting labels for enum caravanVisual.core+en_zoomMode 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[BetterLoading:HugsLib Compat] HugsLib has Loaded, Reloaded, and Initialized. Marking as done.
+[BetterLoading] Finished processing load list, hiding.
+[BetterLoading] Game load has finished. Timing data follows:
+Spent 35088.7156ms reading, building, and patching XML tree.
+Spent 16080.086ms turning XML into def instances.
+Spent 103764.5588ms resolving cross-references and running post-load, pre-finalize callbacks.
+Spent 66857.8276ms running static constructors (initializing mods).
+Spent -63787740725310.2ms running post-finalize callbacks.
+In total, spent 225367.486ms launching the game.
+[Best Mix] was applied to 57 work bench(es).
+[BetterLoading] Obtained lock, assuming we're done with post-finalize.
+Failed inject m_MeshScaler - hair under hats wont work F 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+found Stloc_1
+[CM_Prioritize_Research] - patching to allow research prioritizing.
+[CM_Semi_Random_Research] - patching to conditionally hide normal start research button.
+ROCKETMAN: Hijacking ([REFLECTED] RimWorld.StatWorker:GetValue, [DECLARING] RimWorld.StatWorker:GetValue, [ISSTATIC] False, [ISPUBLIC] False, [ISVIRTUAL] StatWorker, [ABSTRACT] False)
+[Yayo's Combat Warcaskets] - Found method to patch
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PROTON: Analyzer patched! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 2)
+Transpiled 1968 methods, it took: 8.305365
+UnloadTime: 1.196700 ms
+
+Unloading 229 unused Assets to reduce memory usage. Loaded Objects now: 38398.
+Total: 670.460200 ms (FindLiveObjects: 3.964900 ms CreateObjectMapping: 4.178100 ms MarkObjects: 661.878500 ms  DeleteObjects: 0.438400 ms)
+
+Loading game from file Order of Infinite Oness with mods:
+  - brrainz.harmony
+  - me.samboycoding.betterloading
+  - Ludeon.RimWorld
+  - Ludeon.RimWorld.Royalty
+  - Ludeon.RimWorld.Ideology
+  - UnlimitedHugs.HugsLib
+  - automatic.gunplay
+  - com.yayo.combat3
+  - erdelf.HumanoidAlienRaces
+  - neronix17.toolbox
+  - brrainz.achtung
+  - roolo.AlmostThere
+  - VanillaExpanded.VBooksE
+  - OskarPotocki.VanillaFactionsExpanded.Core
+  - VanillaExpanded.VCookE
+  - VanillaExpanded.VCEF
+  - VanillaExpanded.VMemesE
+  - Sarg.AlphaMemes
+  - Mlie.AnimalHarvestingSpot
+  - Haecriver.OutfitCopy
+  - ben.automaticnightowl
+  - AveryTheKitty.RefinedFloors
+  - VanillaExpanded.VFEArchitect
+  - Yoann.BalancedFloorsMarketValue
+  - rimfridge.kv.rw
+  - LWM.DeepStorage
+  - VanillaExpanded.VFEPropsandDecor
+  - me.lubar.VanillaBooksExpandedExpanded
+  - Mlie.BestMix
+  - machine.betterinfestations
+  - Mlie.BetterMessagePlacement
+  - Madeline.ModMismatchFormatter
+  - falconne.BWM
+  - automatic.bionicicons
+  - Fluffy.Blueprints
+  - calamabanana.breachableembrasures
+  - arof.BuildFromInventoryForked
+  - Mlie.CentralizedClimateControl
+  - CaptainMuscles.ChillOut
+  - azuraal.choiceofpsycasts
+  - Owlchemist.CleanPathfinding
+  - Mlie.ClothingSorter
+  - MrKociak.BIECombatDrones
+  - Mlie.ConvertThenRecruit
+  - CaesarV6.DamageIndicators
+  - SteelChicken.DevilstrandHydroponics
+  - CaptainMuscles.PrioritizeResearch
+  - tikubonn.DontBlockDoor
+  - Dubwise.DubsApparelTweaks
+  - Dubwise.DubsBreakMod
+  - UnlimitedHugs.AllowTool
+  - Dubwise.DubsMintMenus
+  - dubwise.dubsmintminimap
+  - Dubwise.DubsPaintShop
+  - Dubwise.DubsPerformanceAnalyzer
+  - Dubwise.Rimatomics
+  - erin.decorations
+  - theeyeofbrows.fluffybreakdowns
+  - Fluffy.FollowMe
+  - falconne.HeatMap
+  - Orion.Hospitality
+  - Vanya.Tools.IncidentPersonStat
+  - catachat.inspirationtweaks
+  - CaptainMuscles.Callouts
+  - Jaxe.Bubbles
+  - DerekBickley.LTOColonyGroupsFinal
+  - Dark.JobInBar
+  - aRandomKiwi.KillForMe
+  - Mlie.LessArbitrarySurgery
+  - Scorpio.MakeAnythingCraftable
+  - UnlimitedHugs.MapReroll
+  - m00nl1ght.MapPreview
+  - KamiKatze.MaterialFilter
+  - kikohi.cybernetic
+  - MSE2.Core
+  - xelnigma.miniturretbuff
+  - purpleyam.moreideologicalwords
+  - tidal.morevanilla.textures
+  - Rax.MorphGun
+  - JBloodthorn.NoLazyDoctors
+  - Supes.ParallelPowerGrid
+  - SaucyPigeon.PawnBadge
+  - Murmur.PawnNameVariety
+  - Taranchuk.PerformanceOptimizer
+  - Owlchemist.PerspectiveBuildings
+  - Owlchemist.PerspectiveTrees
+  - Fluffy.Pharmacist
+  - JangoDsoul.SimpleStorage
+  - Mehni.PickUpAndHaul
+  - Mlie.PrisonersShouldFearTurrets
+  - xelnigma.psyeltex
+  - xelnigma.psypsychitetea
+  - brrainz.rangefinder
+  - Lucifer.RealisticRooms
+  - twistedpacifist.ReasonableComponents
+  - Sixdd.LittleStorage2
+  - Oken.RebalancedDeepStorage
+  - automatic.recipeicons
+  - bustedbunny.recylethis
+  - Mlie.RelevantStatsInDescription
+  - khamenman.armorracks
+  - Uuugggg.ReplaceStuff
+  - VanillaExpanded.VFECore
+  - Garethp.ReplaceStuffCompatibility
+  - LWM.RestrictedStorage
+  - Mlie.RoadsOfTheRim
+  - roolo.SearchAndDestroy
+  - Supes.SelectedReconnector
+  - avilmask.SelfDyeing
+  - CaptainMuscles.SemiRandomResearch
+  - targhetti.ShowDrafteesWeapon
+  - Dark.Signs
+  - PeteTimesSix.SimpleSidearms
+  - Uuugggg.SmartMedicine
+  - denev.SmartTurretCovering
+  - dhultgren.smarterconstruction
+  - legodude17.smartdecon
+  - weilbyte.snapout
+  - VanillaExpanded.VFEMedical
+  - VanillaExpanded.VFESpacer
+  - tikubonn.StuffedDoll
+  - Uuugggg.TDPack
+  - Shenanigans.TechTattoos
+  - Terrasecurity
+  - MrChimick.TooManyAreas
+  - hobtook.tradeui
+  - automatic.traderships
+  - VanillaExpanded.VAECD
+  - VanillaExpanded.VBrewE
+  - VanillaExpanded.VCookEStews
+  - VanillaExpanded.VCookESushi
+  - OskarPotocki.VanillaExpanded.IdeologyPatches
+  - OskarPotocki.VanillaExpanded.RoyaltyPatches
+  - OskarPotocki.VFE.Mechanoid
+  - PureMJ.MjRimMods.VanillaFixHaulAfterSlaughter
+  - PureMJ.MjRimMods.VanillaFix_MortarShellLoading
+  - VanillaExpanded.VFEArt
+  - VanillaExpanded.VFEPower
+  - VanillaExpanded.VFEProduction
+  - VanillaExpanded.VGeneticsE
+  - VanillaExpanded.VHE
+  - VanillaExpanded.Ideo.IconsandSymbols
+  - VanillaExpanded.Ideo.RelicsAndArtifacts
+  - pathavoid.kv.rw
+  - vanillaexpanded.outposts
+  - VanillaExpanded.VPlantsE
+  - VanillaExpanded.VanillaSocialInteractionsExpanded
+  - VanillaExpanded.VTEXE
+  - VanillaExpanded.VTEXVariations
+  - VanillaExpanded.VWE
+  - VanillaExpanded.VWEHW
+  - legodude17.heavyweaponsreloading
+  - VanillaExpanded.VWEL
+  - 22.Virtue.Frame
+  - visibleraidpoints.1trickPonyta
+  - Murmur.WallLight
+  - Sk.WeaponMastery
+  - bodlosh.WeaponStats
+  - roolo.whatthehack
+  - Fluffy.WorkTab
+  - com.yayo.yayoAni
+  - com.yayo.caravanVisual
+  - VanillaExpanded.VFEA
+  - OskarPotocki.VFE.Pirates
+  - Dra.YayoCombatWarcaskets
+  - pb3n.SimpleWarrants
+  - nephlite.orbitaltradecolumn
+  - FrozenSnowFox.EfficientUtilities
+  - VanillaExpanded.VFEFarming
+  - VanillaExpanded.VFESecurity
+  - FrozenSnowFox.NoDefaultShelfStorage
+  - VanillaExpanded.VanillaTraitsExpanded
+  - moretraitslots.kv.rw
+  - Neronix17.SubpersonaShells
+  - Neronix17.Retexture.VanillaHair
+  - Mlie.PlasteelSurgery
+  - Mlie.PSReconditioningPod
+  - syrchalis.setupcamp
+  - Krkr.RocketMan
+[BetterLoading] Not showing game load/save screen because we've detected what we believe to be a multiplayer mod: Multiplayer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Achtung v3.4.4.0 Info: To make Achtung log some performance info, create an empty 'AchtungPerformance.txt' file in same directory as Player.log
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+ROCKETMAN: <color=red>Warm up ABORTED!</color> for new map!
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+Cleaned up 40 deprecated records from What the Hack!?
+GC : animation data count [0 -> 0]
+SOYUZ: Preset loaded!
+Unloading 1 Unused Serialized files (Serialized files now loaded: 2)
+The variations mod has probably been added to a running save. Ignoring load error.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 47744.
+Total: 975.029200 ms (FindLiveObjects: 2.065200 ms CreateObjectMapping: 13.414900 ms MarkObjects: 959.368900 ms  DeleteObjects: 0.180000 ms)
+
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+ROCKETMAN: Position verfication started!
+Guest group arrived, but there are no guest beds and the player asked to wait until they are built.
+Getting random element from empty collection. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SK_WeaponMastery.MasteryWeaponComp.SetLevel (Verse.Pawn pawn, System.Int32 level) [0x00001] in <7d23fc86df2a42bd8b3cf8c898b89839>:0 
+  at (wrapper dynamic-method) SK_WeaponMastery.Core.SK_WeaponMastery.Core.GenerateMasteriesForPawns_Patch0(System.Collections.Generic.List`1<Verse.Pawn>)
+  at SK_WeaponMastery.Core.OnNeutralPawnSpawn (RimWorld.IncidentWorker_NeutralGroup __instance, RimWorld.IncidentParms parms, System.Collections.Generic.List`1[Verse.Pawn]& __result) [0x00001] in <7d23fc86df2a42bd8b3cf8c898b89839>:0 
+  at (wrapper dynamic-method) RimWorld.IncidentWorker_NeutralGroup.RimWorld.IncidentWorker_NeutralGroup.SpawnPawns_Patch1(RimWorld.IncidentWorker_NeutralGroup,RimWorld.IncidentParms)
+  at RimWorld.IncidentWorker_TravelerGroup.TryExecuteWorker (RimWorld.IncidentParms parms) [0x00048] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at (wrapper dynamic-method) RimWorld.IncidentWorker.RimWorld.IncidentWorker.TryExecute_Patch1(RimWorld.IncidentWorker,RimWorld.IncidentParms)
+  at (wrapper dynamic-method) RimWorld.Storyteller.RimWorld.Storyteller.TryFire_Patch1(RimWorld.Storyteller,RimWorld.FiringIncident)
+  at RimWorld.Storyteller.StorytellerTick () [0x0003a] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at (wrapper dynamic-method) Verse.TickManager.Verse.TickManager.DoSingleTick_Patch3(Verse.TickManager) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GC : animation data count [63 -> 43]
+Deep-saving destroyed thing Shuttle162574 with saveDestroyedThings==false. label=shipThing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Object with load ID Hireable_pirates is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: RawRice | RawRice | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: VCE_Bearberry | VCE_Bearberry | Vanilla Plants Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: RawCorn | RawCorn | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: MealSurvivalPack | MealSurvivalPack | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: MealFine | MealFine | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: Kibble | Kibble | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: RawRice | RawRice | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: VCE_Bearberry | VCE_Bearberry | Vanilla Plants Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: RawCorn | RawCorn | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: MealSurvivalPack | MealSurvivalPack | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: MealFine | MealFine | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: RawRice | RawRice | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: VCE_Bearberry | VCE_Bearberry | Vanilla Plants Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: RawCorn | RawCorn | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: MealSurvivalPack | MealSurvivalPack | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: MealFine | MealFine | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: RawRice | RawRice | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: VCE_Bearberry | VCE_Bearberry | Vanilla Plants Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: RawCorn | RawCorn | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: MealSurvivalPack | MealSurvivalPack | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: MealFine | MealFine | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 64 | Horse
+Food: Kibble | Kibble | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: RawRice | RawRice | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: VCE_Bearberry | VCE_Bearberry | Vanilla Plants Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: RawCorn | RawCorn | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: MealSurvivalPack | MealSurvivalPack | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: MealFine | MealFine | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 65 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: RawRice | RawRice | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: VCE_Bearberry | VCE_Bearberry | Vanilla Plants Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: RawCorn | RawCorn | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: MealSurvivalPack | MealSurvivalPack | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: MealFine | MealFine | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: stallion 62 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: mare 63 | Horse
+Food: RawRice | RawRice | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: mare 63 | Horse
+Food: VCE_Bearberry | VCE_Bearberry | Vanilla Plants Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: mare 63 | Horse
+Food: RawCorn | RawCorn | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: mare 63 | Horse
+Food: MealSurvivalPack | MealSurvivalPack | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: mare 63 | Horse
+Food: MealFine | MealFine | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: mare 63 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: mare 63 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: mare 63 | Horse
+Food: VCE_MealGourmet | VCE_MealGourmet | Vanilla Cooking Expanded
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+AlienRace encountered an error processing food
+Pawn: mare 63 | Horse
+Food: MealSimple | MealSimple | Core
+System.NullReferenceException: Object reference not set to an instance of an object
+  at (wrapper dynamic-method) AlienRace.HarmonyPatches.AlienRace.HarmonyPatches.ThoughtsFromIngestingPostfix_Patch0(Verse.Pawn,Verse.Thing,Verse.ThingDef,System.Collections.Generic.List`1<RimWorld.FoodUtility/ThoughtFromIngesting>&) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to set ThingCount stack count to 30, but thing's stack count is only 9. thing=MealSurvivalPack8266888 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GC : animation data count [62 -> 43]
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+The Comba Covenant are coming after 11.03206 days.
+The Fallen Empire are coming after 31.62097 days.
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+ROCKETMAN: Position verfication started!
+Adding MAC_Custom_Make_VCE_MealGourmet2 to VFE_TableTailorLarge
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to VFE_TableTailorLarge
+Adding MAC_Custom_Make_Apparel_PsyfocusVest1 to VFE_TableTailorLarge
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+Scatterer RimWorld.GenStep_ScatterCaveDebris could not find cell to generate at. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+The Fallen Empire are coming after 11.55542 days.
+The Canrecan Treaty are coming after 34.34646 days.
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+ROCKETMAN: Position verfication started!
+SearchAndDestroy_Gizmo_Ranged toggle
+Deep-saving destroyed thing Shuttle162574 with saveDestroyedThings==false. label=shipThing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Object with load ID Hireable_pirates is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GC : animation data count [106 -> 46]
+Guest group arrived, but there are no guest beds and the player asked to wait until they are built.
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+The Fallen Empire are coming after 11.2122 days.
+The Canrecan Treaty are coming after 30.70783 days.
+The Splitter Army are coming after 46.44096 days.
+Faction The Splitter Army can't visit, because it doesn't have any peaceful group makers. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+ROCKETMAN: Position verfication started!
+Deep-saving destroyed thing Shuttle162574 with saveDestroyedThings==false. label=shipThing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Object with load ID Hireable_pirates is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GC : animation data count [129 -> 104]
+Failed to remove current primary equipment Wood (initially was Heavy SMG (normal)) when swapping to Wood x3 on pawn Helmick, Defector (colonist: True) (dropping: False, current drop mode: InDistress). Aborting swap. Please report this! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ROCKETMAN: <color=red>Warm up</color> started for new map!
+The Fallen Empire are coming after 10.23641 days.
+ROCKETMAN: <color=red>Warm up</color> Finished for new map!
+ROCKETMAN: Position verfication started!
+(devmode) break attempt Mule, Vengeful
+
+Wander_Psychotic Major
+
+Wander_Sad Minor
+
+VFEA_Hallucinations Minor
+
+
+Deep-saving destroyed thing Shuttle162574 with saveDestroyedThings==false. label=shipThing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Object with load ID Hireable_pirates is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Deep-saving destroyed thing Shuttle162574 with saveDestroyedThings==false. label=shipThing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Object with load ID Hireable_pirates is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Getting random element from empty collection. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Getting random element from empty collection. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Exception filling window for Verse.Dialog_DebugOptionListLister: System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at SK_WeaponMastery.MasteryWeaponComp.SetLevel (Verse.Pawn pawn, System.Int32 level) [0x00001] in <7d23fc86df2a42bd8b3cf8c898b89839>:0 
+  at (wrapper dynamic-method) SK_WeaponMastery.Core.SK_WeaponMastery.Core.GenerateMasteriesForPawns_Patch0(System.Collections.Generic.List`1<Verse.Pawn>)
+  at SK_WeaponMastery.Core.OnNeutralPawnSpawn (RimWorld.IncidentWorker_NeutralGroup __instance, RimWorld.IncidentParms parms, System.Collections.Generic.List`1[Verse.Pawn]& __result) [0x00001] in <7d23fc86df2a42bd8b3cf8c898b89839>:0 
+  at (wrapper dynamic-method) RimWorld.IncidentWorker_NeutralGroup.RimWorld.IncidentWorker_NeutralGroup.SpawnPawns_Patch1(RimWorld.IncidentWorker_NeutralGroup,RimWorld.IncidentParms)
+  at RimWorld.IncidentWorker_TraderCaravanArrival.TryExecuteWorker (RimWorld.IncidentParms parms) [0x00031] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at (wrapper dynamic-method) RimWorld.IncidentWorker.RimWorld.IncidentWorker.TryExecute_Patch1(RimWorld.IncidentWorker,RimWorld.IncidentParms)
+  at Verse.DebugActionsIncidents+<>c__DisplayClass8_1.<DoIncidentDebugAction>b__2 () [0x00085] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at Verse.Dialog_DebugOptionLister.DebugAction (System.String label, System.Action action, System.Boolean highlight) [0x0003f] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at Verse.Dialog_DebugOptionListLister.DoListingItems () [0x0002b] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at Verse.Dialog_OptionLister.DoWindowContents (UnityEngine.Rect inRect) [0x00176] in <99518a644a3e4a7ea3fde566568df84a>:0 
+  at Verse.Window.InnerWindowOnGUI (System.Int32 x) [0x001d3] in <99518a644a3e4a7ea3fde566568df84a>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mouse position stack is not empty. There were more calls to BeginScrollView than EndScrollView. Fixing. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Deep-saving destroyed thing Shuttle162574 with saveDestroyedThings==false. label=shipThing 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Object with load ID Hireable_pirates is referenced (xml node name: li) but is not deep-saved. This will cause errors during loading. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2c90 -> priority: 1 
+  Thread -> id: 1ae8 -> priority: 1 
+  Thread -> id: 41cc -> priority: 1 
+  Thread -> id: 2414 -> priority: 1 
+[MapReroll][ERR] Exception in preview generator thread: System.Threading.ThreadAbortException
+  at (wrapper managed-to-native) System.Threading.WaitHandle.Wait_internal(intptr*,int,bool,int)
+  at System.Threading.WaitHandle.WaitMultiple (System.Threading.WaitHandle[] waitHandles, System.Int32 millisecondsTimeout, System.Boolean exitContext, System.Boolean WaitAll) [0x00077] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Threading.WaitHandle.WaitAny (System.Threading.WaitHandle[] waitHandles, System.Int32 millisecondsTimeout, System.Boolean exitContext) [0x000a1] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at System.Threading.WaitHandle.WaitAny (System.Threading.WaitHandle[] waitHandles) [0x00000] in <eae584ce26bc40229c1b1aa476bfa589>:0 
+  at MapReroll.MapPreviewGenerator.DoThreadWork () [0x0015b] in <9d47e862ce99494ea06519b173a182e3>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+ 
+(Filename:  Line: -1)
+
